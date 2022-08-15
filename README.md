@@ -11,7 +11,7 @@ Skills:  REACT / JS / HTML / CSS/  FIREBASE
 - 💬 Ask me about React js,Javascript,Html,Css,MUI,,Bootstrap,Tailwind 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahtansen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/abdullahtansen)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahtansen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abdullahtansen)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtansen)](https://github.com/anuraghazra/github-readme-stats)
 
