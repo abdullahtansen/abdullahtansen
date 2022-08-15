@@ -1,6 +1,6 @@
 ![I am Front-End Developer](https://i.ibb.co/SfsFxfs/Abdullah-Al-tansen-2.png)
 
-### Hi there 👋, My Name Is Abdullah AL Tansen
+### Hi there 👋, I'm Abdullah AL Tansen
 #### I am Front-End Developer
 I'm a Front End Web Developer. I count myself as a hardworking person. Honesty, hard work, and passion will support me to grow myself & utilize my knowledge and expertise for professional development in the relevant field. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas.
 
